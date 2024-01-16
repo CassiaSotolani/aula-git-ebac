@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Cassia
+-Profissão: Analista de testes/QA
+-Cidade: Dourados/MS
+-O que faz nas horas vaga: gosto de ler, jogar video game, assistir filmes e séries.
+-Feedback sobre o curso Qualidade de Software: o curso está ótimo, com bastante conteúdo legal e os exercícios são as melhores partes.
+-Feedback sobre a plataforma de estudo da EBAC: a plataforma é bem completa, gosto bastante.
+
+Obrigado!!!
+
+
